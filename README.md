@@ -76,13 +76,20 @@
    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
    <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"    
-    alt="nginx" width="40" height="40" /></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="40" height="40" /></a>
+   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"    
+   alt="nginx" width="40" height="40" /></a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+   alt="nodejs" width="40" height="40" /></a>
  </p>
+ 
+   
+  <p align="center">
+    <a href="https://github.com/rspec" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/22388?s=200&v=4" alt="rspec"
+    width="40" height="40" /></a>
+  </p>
  
  <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -92,18 +99,6 @@
     <img src="https://www.clipartmax.com/png/middle/87-873843_windows-10-logo-report-flat-icon.png" alt="windows"
     width="40" height="40" /></a>
   </p>
-  
-  <h4 align="center">А так же тесты:</h4> 
-  <p align="center">
-    <a href="https://rspec.info">
-    <img src="https://img.shields.io/badge/Rspec-9cf?logo=rspec&logoColor=white&style=for-the-badge" alt="Rspec Badge"/></a>
-    <a href="https://github.com/teamcapybara/capybara">
-    <img src="https://img.shields.io/badge/Capybara-yellowgreen?logo=capybara&logoColor=white&style=for-the-badge" alt="Capybara Badge"/></a>
-    <a href="https://github.com/thoughtbot/factory_bot_rails">
-    <img src="https://img.shields.io/badge/factory bot rails-red?logo=factory bot rails&logoColor=white&style=for-the-badge" 
-    alt="factory bot rails Badge"/>
-    </a>
- </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwpan&show_icons=true&locale=ru&layout=compact" alt="juwpan" width="400" /></p>
 
