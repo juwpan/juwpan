@@ -93,9 +93,9 @@
  </p>
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwpan&show_icons=true&locale=en&layout=compact" alt="juwpan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwpan&show_icons=true&locale=ru&layout=compact" alt="juwpan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juwpan&show_icons=true&locale=en" alt="juwpan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=juwpan&show_icons=true&locale=ru" alt="juwpan" /></p>
 
 <!--
 **juwpan/juwpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
