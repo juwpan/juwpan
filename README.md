@@ -45,25 +45,40 @@
     rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
     alt="postgresql" width="40" height="40" /></a>
-  </p>
+ </p>
  
  <p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-    width="40" height="40" /></a>
+   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
+   src="https://miro.medium.com/max/1400/1*9IXiJMp60QAt3MP0R8qX_A.png"
+   alt="webpack" width="80" height="40" /></a>
+   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img
+   src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
+   alt="npm" width="80" height="40" /></a>
+   <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img
+   src="https://anurocha.files.wordpress.com/2016/10/yarn-kitten-full.png"
+   alt="npm" width="80" height="40" /></a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-    width="40" height="40" /></a>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"    
+    alt="nginx" width="40" height="40" /></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs" width="40" height="40" /></a>
+ </p>
+ 
+ <p align="center">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+    width="40" height="40" /></a>
+    <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.clipartmax.com/png/middle/87-873843_windows-10-logo-report-flat-icon.png" alt="windows"
+    width="40" height="40" /></a>
+  </p>
+  
+  <p align="center">
     <a href="https://rubyonrails.org" target="_blank"
     rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
@@ -75,9 +90,6 @@
     rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"
     width="40" height="40" /></a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-    alt="webpack" width="40" height="40" /></a>
  </p>
   
 
