@@ -93,6 +93,18 @@
     width="40" height="40" /></a>
   </p>
   
+  <h4 align="center">А так же тесты:</h4> 
+  <p align="center">
+    <a href="https://rspec.info">
+    <img src="https://img.shields.io/badge/Rspec-9cf?logo=rspec&logoColor=white&style=for-the-badge" alt="Rspec Badge"/></a>
+    <a href="https://github.com/teamcapybara/capybara">
+    <img src="https://img.shields.io/badge/Capybara-yellowgreen?logo=capybara&logoColor=white&style=for-the-badge" alt="Capybara Badge"/></a>
+    <a href="https://github.com/thoughtbot/factory_bot_rails">
+    <img src="https://img.shields.io/badge/factory bot rails-red?logo=factory bot rails&logoColor=white&style=for-the-badge" 
+    alt="factory bot rails Badge"/>
+    </a>
+ </p>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwpan&show_icons=true&locale=ru&layout=compact" alt="juwpan" width="400" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=juwpan&show_icons=true&locale=ru" alt="juwpan" width="400" /></p>
