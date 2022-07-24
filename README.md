@@ -55,7 +55,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis" width="40" height="40" /></a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
-      src="https://miro.medium.com/max/1400/1*9IXiJMp60QAt3MP0R8qX_A.png" alt="webpack" width="80" height="40" /></a>
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/206px-Webpack.svg.png" alt="webpack" width="90" height="40" /></a>
   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="80" height="40" /></a>
   <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img
@@ -65,8 +65,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"
       alt="nginx" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
