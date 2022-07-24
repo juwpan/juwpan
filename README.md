@@ -1,11 +1,12 @@
 <h1 align="center">Приветствую 👋, меня зовут Максим </h1>
-<h3 align="center">Я занимаюсь Веб-разработкой</h3>
+<h3 align="left">Я веб-разработчик из России</h3>
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300" height="200" />
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
+  <h3>Связаться со мной:</h3>
   <a href="https://vk.com/id45360483">
     <img src="https://img.shields.io/badge/Vkontakte-blue?logo=vk&logoColor=white&style=for-the-badge"
       alt="Vkontakte Badge" />
@@ -19,15 +20,14 @@
       alt="Telegram Badge" />
   </a>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juwpan&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juwpan&label=Profile%20views&color=0e75b6&style=flat"
     alt="juwpan" /> </p>
 
-<p align="center"> 📫 Почта для связи <b>juwpan@gmail.com</b></p>
+<p align="left"> 📫 Почта <b>juwpan@gmail.com</b></p>
 
-<h3 align="center">Мои навыки и интрументы:</h3>
+<h3 align="left">Мои навыки и интрументы:</h3>
 
-
-<p align="center">
+<p align="left">
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
       alt="rails" width="40" height="40" /></a>
@@ -73,12 +73,12 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/rspec" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/22388?s=200&v=4" alt="rspec" width="40" height="40" /></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" /></a>
