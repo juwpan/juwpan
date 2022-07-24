@@ -1,5 +1,5 @@
 <h1 align="center">Приветствую 👋, меня зовут Максим </h1>
-<h3 align="left">Я веб-разработчик из России</h3>
+<h3 align="left">Я веб-разработчик Ruby on Rails</h3>
 
 <div id="header" align="left">
   <img src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300" height="200" />
