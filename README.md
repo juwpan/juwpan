@@ -87,11 +87,7 @@
       width="40" height="40" /></a>
 </p>
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=juwpan&show_icons=true&locale=ru&layout=compact"
-    alt="juwpan" width="340" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=juwpan&show_icons=true&locale=ru"
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=juwpan&show_icons=true&locale=ru"
     alt="juwpan" width="400" /></p>
 
 <!--
