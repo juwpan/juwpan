@@ -19,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juwpan&label=Profile%20views&color=0e75b6&style=flat"
     alt="juwpan" /> </p>
 
-<p align="left"> 📫 Почта <b>juwpan@gmail.com</b></p>
+<p align="left"> 📫 Почта <b>juwpan@copbygp.ru</b></p>
 
 <h3 align="left">Мои навыки и интрументы:</h3>
 
