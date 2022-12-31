@@ -52,16 +52,14 @@
       alt="redis" width="40" height="40" /></a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/206px-Webpack.svg.png" alt="webpack" width="90" height="40" /></a>
-  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="80" height="40" /></a>
   <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img
       src="https://anurocha.files.wordpress.com/2016/10/yarn-kitten-full.png" alt="npm" width="80" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"
+  <a href="https://render.com" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frender.com%2Fdocs%2Fdeploy-rails&psig=AOvVaw2VXjCwmIkg0FW2o5xA8s0p&ust=1672559471410000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj0-N2vo_wCFQAAAAAdAAAAABAJ"
       alt="nginx" width="40" height="40" /></a>
   <a href="https://railway.app" target="_blank" rel="noreferrer"> <img
       src="https://railway.app/brand/logo-dark.svg"
