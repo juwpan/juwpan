@@ -63,8 +63,8 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBv2aYopwb8K6k7McYi-EHgKmuqA1XEnb5X4KXlfnEFcfa8rf_Te9HXbZiq4e4_tJcfew&usqp=CAU"
       alt="nginx" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+  <a href="https://railway.app" target="_blank" rel="noreferrer"> <img
+      src="https://railway.app/brand/logo-dark.svg"
       alt="nodejs" width="40" height="40" /></a>
 </p>
 
