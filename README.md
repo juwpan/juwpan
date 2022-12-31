@@ -59,7 +59,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
   <a href="https://render.com" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frender.com%2Fdocs%2Fdeploy-rails&psig=AOvVaw2VXjCwmIkg0FW2o5xA8s0p&ust=1672559471410000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj0-N2vo_wCFQAAAAAdAAAAABAJ"
+    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/j8z02ssteea4zj1k1nyz"
       alt="nginx" width="40" height="40" /></a>
   <a href="https://railway.app" target="_blank" rel="noreferrer"> <img
       src="https://railway.app/brand/logo-dark.svg"
